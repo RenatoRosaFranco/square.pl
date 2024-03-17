@@ -1,0 +1,17 @@
+#header {
+  position: relative;
+
+  .navbar-default  {
+    position: relative;
+    background-color: #EEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    .navbar-brand {
+      font-size: 20px;
+      text-transform: uppercase;
+      position: relative;
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Javascript",
+    "description": "NodeJS services and React front ends."
+  },
+  {
+    "id": 1,
+    "name": "Python/Ruby",
+    "description": "We have delivered applications using all the popular frameworks, i.e., Django, Flask, Ruby on Rails, Sinatra."
+  },
+  {
+    "id": 2,
+    "name": "Digital Marketing",
+    "description": "Our comprehensive approach includes SEO optimizations, social media engagement, email campaigns, and content marketing."
+  },
+  {
+    "id": 3,
+    "name": "Linux Infrastructure",
+    "description": "We use Docker, Kubernetes and maintain CI/CD pipelines and production environments on the four major cloud suppliers (Heroku, Google Cloud, AWS, and Digital Ocean)."
+  }
+]

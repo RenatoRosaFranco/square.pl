@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "country": "Poland",
+    "phone_number": "+48 22 397 08 53",
+    "address": "WeWork, Mennica Legacy Tower, Prosta 20, 00-850, Warsaw 00-850",
+    "email": "witaj@square.pl"
+  },
+  {
+    "id": 1,
+    "country": "Brasil",
+    "phone_number": "+55 (55) 99627-6161",
+    "address": "R. Cândido Falcao, Nº 1155, Centro, São Borja 97670-000",
+    "email": "hey@square.com.br"
+  },
+  {
+    "id": 2,
+    "country": "United States",
+    "phone_number": "+1 704 4874-4478",
+    "address": "450 Lexington Ave, New York, NY 10017, United States",
+    "email": "hey@square.pl"
+  }
+]

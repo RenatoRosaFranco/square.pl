@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Development",
+    "description": "We assist development teams by delivering projects that the core team either has no experience in or does not have the capacity to focus on.",
+    "linkUrl": "https://square.pl/"
+  },
+  {
+    "id": 2,
+    "title": "Integration",
+    "description": "",
+    "linkUrl": "https://square.pl"
+  },
+  {
+    "id": 3,
+    "title": "Cloud Operations",
+    "description": "",
+    "linkUrl": "https://square.pl"
+  }
+]

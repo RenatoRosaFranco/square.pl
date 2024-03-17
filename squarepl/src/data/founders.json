@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "avatarUrl": "founders/renato.jpg",
+    "name": "Renato Franco",
+    "occupation": "CEO"
+  },
+  {
+    "id": 2,
+    "avatarUrl": "founders/jonathan.jpg",
+    "name": "Jonathan Cardoso",
+    "occupation": "CHRO"
+  },
+  {
+    "id": 3,
+    "avatarUrl": "founders/hanzo.jpg",
+    "name": "Hanzo Kimura",
+    "occupation": "CCO"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "clientName": "Portal Fronteiriço",
+    "logo": "PortalFronteiricoLogo.png",
+    "description": "We developed a comprehensive portal to facilitate cross-border information flow, enhancing communication and cooperation for Portal Fronteiriço's audiences.",
+    "projectLink": "Read more URL or link to the project" 
+  },
+  {
+    "id": 2,
+    "clientName": "Adota Aí",
+    "logo": "AdotaAiLogo.png",
+    "description": "Since our partnership began, we've supported Adota Aí with digital solutions aimed at streamlining the pet adoption process, making it easier for users to find and adopt pets.",
+    "projectLink": "Read more URL or link to the project"
+  },
+  {
+    "id": 3,
+    "clientName": "Gotcha",
+    "logo": "GotchaLogo.png",
+    "description": "We've helped Gotcha navigate through technological shifts by maintaining and upgrading their legacy systems while simultaneously developing cutting-edge solutions to stay ahead in their market.",
+    "projectLink": "Read more URL or link to the project"
+  }
+]
